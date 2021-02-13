@@ -1,0 +1,3 @@
+/Users/murodjon/training/NDKsamples/app/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/murodjon/training/NDKsamples/app/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/murodjon/training/NDKsamples/app/.cxx/cmake/release/x86_64/CMakeFiles/img-processing-lib.dir

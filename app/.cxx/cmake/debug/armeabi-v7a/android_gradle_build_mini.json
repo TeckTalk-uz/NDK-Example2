@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/murodjon/training/NDKsamples/app/CMakeLists.txt",
+    "/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/murodjon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/murodjon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "img-processing-lib-Debug-armeabi-v7a": {
+      "artifactName": "img-processing-lib",
+      "buildCommand": "/Users/murodjon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/armeabi-v7a\" img-processing-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/murodjon/training/NDKsamples/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libimg-processing-lib.so",
+      "runtimeFiles": [
+        "/Users/murodjon/training/NDKsamples/app/src/main/jniLibs/armeabi-v7a/libopencv_java4.so"
+      ]
+    }
+  }
+}

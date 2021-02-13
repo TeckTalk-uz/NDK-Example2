@@ -1,0 +1,50 @@
+{
+  "stringTable": {
+    "0": "/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dimg_processing_lib_EXPORTS -I/Users/murodjon/training/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/murodjon/training/NDKsamples/app/CMakeLists.txt",
+    "/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/murodjon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/murodjon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "img-processing-lib-Debug-arm64-v8a": {
+      "buildCommand": "/Users/murodjon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/murodjon/training/NDKsamples/app/.cxx/cmake/debug/arm64-v8a\" img-processing-lib",
+      "buildType": "debug",
+      "toolchain": "98291303",
+      "abi": "arm64-v8a",
+      "artifactName": "img-processing-lib",
+      "files": [
+        {
+          "src": "/Users/murodjon/training/NDKsamples/app/src/main/cpp/img-processing-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/murodjon/training/NDKsamples/app/src/main/cpp/img-processing.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/murodjon/training/NDKsamples/app/build/intermediates/cmake/debug/obj/arm64-v8a/libimg-processing-lib.so",
+      "runtimeFiles": [
+        "/Users/murodjon/training/NDKsamples/app/src/main/jniLibs/arm64-v8a/libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "98291303": {
+      "cppCompilerExecutable": "/Users/murodjon/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

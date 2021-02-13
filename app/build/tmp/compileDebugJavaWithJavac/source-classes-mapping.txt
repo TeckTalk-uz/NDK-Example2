@@ -1,0 +1,4 @@
+uz/techtalk/android/ndk/databinding/ActivityMainBinding.java
+ uz.techtalk.android.ndk.databinding.ActivityMainBinding
+uz/techtalk/android/ndk/BuildConfig.java
+ uz.techtalk.android.ndk.BuildConfig

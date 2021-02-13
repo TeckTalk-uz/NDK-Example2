@@ -1,0 +1,12 @@
+# ninja log v5
+0	1147	1613012159	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing-lib.cpp.o	a9c51b575eba1b08
+0	1155	1613012159	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing.cpp.o	748448fef16ea696
+2	1001	1613012241	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing.cpp.o	748448fef16ea696
+2	1029	1613012241	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing-lib.cpp.o	a9c51b575eba1b08
+1	1281	1613012436	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing-lib.cpp.o	4d32a85b0c0259c6
+2	1294	1613012436	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing.cpp.o	6d4a2f161a48686d
+3	50	1613012701	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libimg-processing-lib.so	cdec43a62af3710a
+2	874	1613012715	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing.cpp.o	6d4a2f161a48686d
+874	918	1613012715	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libimg-processing-lib.so	cdec43a62af3710a
+1	1301	1613182755	CMakeFiles/img-processing-lib.dir/src/main/cpp/img-processing.cpp.o	6d4a2f161a48686d
+1302	1403	1613182755	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libimg-processing-lib.so	cdec43a62af3710a
